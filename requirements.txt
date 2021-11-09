@@ -1,0 +1,3 @@
+assertpy
+Faker
+-e ./utils/selendroid_app_ui
